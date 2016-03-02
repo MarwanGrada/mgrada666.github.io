@@ -1,0 +1,195 @@
+/*Header*/
+
+html{
+  font-family: 'Quicksand', sans-serif;
+  margin: 0 auto;
+  
+}
+
+.header a.svg {    
+  width: 250px;
+  height: 100px;
+  float:left; 
+}
+
+body {
+  height:400px;
+  background-color: #BAC3CC;
+}
+
+ header nav a {
+  float: right;
+  margin:30px 30px 0 0;
+  display: inline-block;
+  margin-left: 18px;
+  color: rgba(0,0,0,0.7);
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+a:hover{
+  color: white;
+}
+
+h1{
+  text-align: center;
+  font-size: 70px;
+  font-weight: 700;
+  color: white;
+  text-transform:uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 25px;
+  clear:both;
+}
+
+span{
+  display: inline-block;
+  padding: 0.5em 0.2em;
+  border:white solid 8px;
+}
+
+.header {
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+
+/*Content*/
+
+.p {
+  float: left;
+  padding: 20px;
+  text-align: center;
+
+}
+
+.p h1{
+  width: 400px;
+  margin-top: 70px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.p p{
+  width: 400px;
+  height: 150px;
+  color: white;
+  font-weight: 900;
+}
+
+
+
+.boo{
+  float: right;
+  margin: 100px;
+  
+}
+
+/*Projetcs*/
+
+a {
+  text-decoration: none;
+}
+
+.project {  
+  display: inline-block;
+  margin: 0 auto;
+  width: 990px;
+  margin: 100px;
+  border-top: solid 2px #999; 
+}
+
+.project a img{
+width: 300px;
+margin: 50px;
+}
+
+.week2 {
+  float: right;
+}
+.week1 {
+  float: left;
+}
+.week1 p {
+  text-align: center;
+  margin: -20px;
+}
+
+.week2 p {
+  text-align: center;
+  margin: -20px;
+}
+
+
+
+
+
+
+
+
+
+
+/*Footer*/
+
+
+
+ .logo2 {
+  width: 100px;
+  height: 100px;
+  }  
+
+
+
+/*Footer*/
+
+footer  {
+  position: fixed; 
+  bottom: 0;
+  left: 0;
+  display: inline;  
+  clear: both;
+  font-weight: 700;
+  font-size: 16px;
+  }
+
+ a.twitter {
+  width: 60px;
+  height: 60px;
+  }
+
+.twitter, .facebook{  
+  padding-left: 15px;
+  width: 50px;
+  height: 50px;
+  }
+
+  .copyright {
+  color: white;
+  }
+
+  /*.facebook {    
+  position:relative;
+  bottom:30px;
+  right: 0;
+  margin: 20px;
+  padding-left: 20px;
+  width: 50px;
+  height: 50px;  
+  }
+*/
+
+
+
+/*a.facebook {
+  position: relative;
+  display: inline-block;
+}*/
+

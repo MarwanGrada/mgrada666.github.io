@@ -1,0 +1,31 @@
+body{
+  font-family: 'Quicksand', times;
+  margin: 0 auto;
+  width: 900px; 
+}
+
+.colmn1, .colmn2, .colmn3 {
+  width:250px;
+  float:left;
+  margin: 25px;  
+}
+
+a{
+  text-decoration: none; 
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h4  { 
+  position: inline-block;
+  color:red;
+  margin:25px;
+}
+
+a:hover, h4:hover {
+  color: #66BC7C;
+}
+ 

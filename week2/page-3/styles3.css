@@ -1,0 +1,23 @@
+body{
+  font-family: 'Quicksand', times;
+  margin: 0 auto;
+  width: 900px;
+  background-image: url("../img/background.jpg");
+  background-position: cover;
+ }
+
+h1{
+  text-align: center;
+  font-size:60px;
+}
+
+div.img img {
+  width: 340px;
+  height: 240px;
+  float: left;
+  margin: 20px;  
+  border-radius:10px;
+
+  
+ }
+
